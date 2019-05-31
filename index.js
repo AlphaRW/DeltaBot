@@ -10,7 +10,6 @@ const TOKEN = 'NDMxMTkzMjY0NjMzMTUxNDk5.DqATYg.QQDETF7ZbDA5yWto4UGDKQBd3qg';
 const pre = '%';
 const dev = '275150435072081920';
 
-
 let ping;
 let message;
 let epn;
